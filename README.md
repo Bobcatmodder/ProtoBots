@@ -29,3 +29,11 @@ Low Cost and Accessible
 
 
 NOTE: Still a work in progress- If anything's missing, please contact me!
+
+Liscense notes:
+    All the hardware design files, and Arduino software/programs are under MIT liscenses. 
+    All the Guides and instructions are under CC Attriution 4.0 liscenses. 
+
+    To credit me on a website or document, simply link to my GitHub here. PCBs and STL files need not include any form of direct credit, assuming any modified versions you upload to the internet have a link to my GitHub, credited as the original project. Code can simply have a line at the top that says something like "Based off of original code by Jacob Field, the ProtoBotProject" and a the GitHub URL. Basically, make sure people are able to find the original project from your modification, if they wish.
+
+If you have any questions about this or anythign else, feel free to contact me. There's a contact form on the website that goes directly to my personal email.
